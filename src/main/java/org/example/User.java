@@ -1,8 +1,8 @@
 package org.example;
 
 public class User {
-    String name;
-    String surname;
+    private String name;
+    private String surname;
 
 
     public User(String name, String surname) {
